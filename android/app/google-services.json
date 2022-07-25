@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616412616901",
+    "project_id": "hearus-4f2fe",
+    "storage_bucket": "hearus-4f2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616412616901:android:ba032bb8f39cbfad1478ac",
+        "android_client_info": {
+          "package_name": "me.hearus.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616412616901-a6dtj4qgdjuaer4eiauf7k5bta5po5fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.hearus.app",
+            "certificate_hash": "ad1ad8ece311da76ed764bb8bd65ed35841c5829"
+          }
+        },
+        {
+          "client_id": "616412616901-h67cj7jugpcid9e280jprhkjkp51hfob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.hearus.app",
+            "certificate_hash": "cb55df1dfa02819f5453d8bfc1e01d59fa29dc4b"
+          }
+        },
+        {
+          "client_id": "616412616901-6a4narfeqd9rulsrk69q14egsqdvf2hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamTPwG8oxhmB_Pzs_gz8vZ6HfnIq2HwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616412616901-6a4narfeqd9rulsrk69q14egsqdvf2hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
