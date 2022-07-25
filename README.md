@@ -1,16 +1,3 @@
 # hear_us
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Many stakeholders such as psychologists, students, doctors and mental health patients are involved. A business model is involved wherein councilling is provided free for cost for an initial period of time and is charged later. Users can use messages and in-app calls in order to communicate with users. Backend services such as Firebase and Agora are used. The main objective is to give easy access to mental health solutions.
